@@ -180,7 +180,7 @@ export default function Hero() {
               Explore Your Route <span className="ml-2">→</span>
             </Link>
             <Link href="#" className="px-8 py-3 border-2 border-accent text-primary rounded-full font-medium flex items-center hover:bg-accent hover:text-white transition bg-transparent">
-              📅 Book a Consultation
+              Book a Consultation
             </Link>
           </FadeIn>
         </div>
